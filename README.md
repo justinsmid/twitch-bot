@@ -1,2 +1,2 @@
 # twitch-bot
-Small/simple twitch.tv chatbot
+Twitch.tv chatbot made in javascript using the twitch irc API (https://dev.twitch.tv/docs/irc/)
